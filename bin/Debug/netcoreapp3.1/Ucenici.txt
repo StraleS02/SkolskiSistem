@@ -1,0 +1,7 @@
+0;NEUPISANI;0;
+Strahinja;Stojanovic;Gandijeva 12;42353452
+Reljin;Milan;Bulevar Oslobodjenja 2;325423252
+0;Jozef Atila;1;Sarplaninska 8
+Dare;Rodoslovacki;Heroja Pinkija 22;3253424
+Tasa;Sosic;Milutinova 5;35344235
+0;Milan Mijalkovic;2;Kozaracka 15

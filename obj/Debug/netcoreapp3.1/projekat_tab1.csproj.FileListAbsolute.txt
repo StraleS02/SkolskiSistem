@@ -1,0 +1,77 @@
+C:\Users\Stral3\source\repos\projekat_tab1\bin\Debug\netcoreapp3.1\projekat_tab1.exe
+C:\Users\Stral3\source\repos\projekat_tab1\bin\Debug\netcoreapp3.1\projekat_tab1.deps.json
+C:\Users\Stral3\source\repos\projekat_tab1\bin\Debug\netcoreapp3.1\projekat_tab1.runtimeconfig.json
+C:\Users\Stral3\source\repos\projekat_tab1\bin\Debug\netcoreapp3.1\projekat_tab1.runtimeconfig.dev.json
+C:\Users\Stral3\source\repos\projekat_tab1\bin\Debug\netcoreapp3.1\projekat_tab1.dll
+C:\Users\Stral3\source\repos\projekat_tab1\bin\Debug\netcoreapp3.1\projekat_tab1.pdb
+C:\Users\Stral3\source\repos\projekat_tab1\obj\Debug\netcoreapp3.1\projekat_tab1.csproj.AssemblyReference.cache
+C:\Users\Stral3\source\repos\projekat_tab1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Stral3\source\repos\projekat_tab1\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Stral3\source\repos\projekat_tab1\obj\Debug\netcoreapp3.1\projekat_tab1_MarkupCompile.cache
+C:\Users\Stral3\source\repos\projekat_tab1\obj\Debug\netcoreapp3.1\projekat_tab1_MarkupCompile.lref
+C:\Users\Stral3\source\repos\projekat_tab1\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Stral3\source\repos\projekat_tab1\obj\Debug\netcoreapp3.1\projekat_tab1.g.resources
+C:\Users\Stral3\source\repos\projekat_tab1\obj\Debug\netcoreapp3.1\projekat_tab1.AssemblyInfoInputs.cache
+C:\Users\Stral3\source\repos\projekat_tab1\obj\Debug\netcoreapp3.1\projekat_tab1.AssemblyInfo.cs
+C:\Users\Stral3\source\repos\projekat_tab1\obj\Debug\netcoreapp3.1\projekat_tab1.csproj.CoreCompileInputs.cache
+C:\Users\Stral3\source\repos\projekat_tab1\obj\Debug\netcoreapp3.1\projekat_tab1.dll
+C:\Users\Stral3\source\repos\projekat_tab1\obj\Debug\netcoreapp3.1\projekat_tab1.pdb
+C:\Users\Stral3\source\repos\projekat_tab1\obj\Debug\netcoreapp3.1\projekat_tab1.genruntimeconfig.cache
+C:\Users\Stral3\source\repos\projekat_tab1 - Copy\bin\Debug\netcoreapp3.1\projekat_tab1.exe
+C:\Users\Stral3\source\repos\projekat_tab1 - Copy\bin\Debug\netcoreapp3.1\projekat_tab1.deps.json
+C:\Users\Stral3\source\repos\projekat_tab1 - Copy\bin\Debug\netcoreapp3.1\projekat_tab1.runtimeconfig.json
+C:\Users\Stral3\source\repos\projekat_tab1 - Copy\bin\Debug\netcoreapp3.1\projekat_tab1.runtimeconfig.dev.json
+C:\Users\Stral3\source\repos\projekat_tab1 - Copy\bin\Debug\netcoreapp3.1\projekat_tab1.dll
+C:\Users\Stral3\source\repos\projekat_tab1 - Copy\bin\Debug\netcoreapp3.1\projekat_tab1.pdb
+C:\Users\Stral3\source\repos\projekat_tab1 - Copy\obj\Debug\netcoreapp3.1\projekat_tab1.csproj.AssemblyReference.cache
+C:\Users\Stral3\source\repos\projekat_tab1 - Copy\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Stral3\source\repos\projekat_tab1 - Copy\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Stral3\source\repos\projekat_tab1 - Copy\obj\Debug\netcoreapp3.1\projekat_tab1_MarkupCompile.cache
+C:\Users\Stral3\source\repos\projekat_tab1 - Copy\obj\Debug\netcoreapp3.1\projekat_tab1_MarkupCompile.lref
+C:\Users\Stral3\source\repos\projekat_tab1 - Copy\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Stral3\source\repos\projekat_tab1 - Copy\obj\Debug\netcoreapp3.1\projekat_tab1.g.resources
+C:\Users\Stral3\source\repos\projekat_tab1 - Copy\obj\Debug\netcoreapp3.1\projekat_tab1.AssemblyInfoInputs.cache
+C:\Users\Stral3\source\repos\projekat_tab1 - Copy\obj\Debug\netcoreapp3.1\projekat_tab1.AssemblyInfo.cs
+C:\Users\Stral3\source\repos\projekat_tab1 - Copy\obj\Debug\netcoreapp3.1\projekat_tab1.csproj.CoreCompileInputs.cache
+C:\Users\Stral3\source\repos\projekat_tab1 - Copy\obj\Debug\netcoreapp3.1\projekat_tab1.dll
+C:\Users\Stral3\source\repos\projekat_tab1 - Copy\obj\Debug\netcoreapp3.1\projekat_tab1.pdb
+C:\Users\Stral3\source\repos\projekat_tab1 - Copy\obj\Debug\netcoreapp3.1\projekat_tab1.genruntimeconfig.cache
+C:\Users\Stral3\source\repos\projekat_tab1_finalno\bin\Debug\netcoreapp3.1\projekat_tab1.exe
+C:\Users\Stral3\source\repos\projekat_tab1_finalno\bin\Debug\netcoreapp3.1\projekat_tab1.deps.json
+C:\Users\Stral3\source\repos\projekat_tab1_finalno\bin\Debug\netcoreapp3.1\projekat_tab1.runtimeconfig.json
+C:\Users\Stral3\source\repos\projekat_tab1_finalno\bin\Debug\netcoreapp3.1\projekat_tab1.runtimeconfig.dev.json
+C:\Users\Stral3\source\repos\projekat_tab1_finalno\bin\Debug\netcoreapp3.1\projekat_tab1.dll
+C:\Users\Stral3\source\repos\projekat_tab1_finalno\bin\Debug\netcoreapp3.1\projekat_tab1.pdb
+C:\Users\Stral3\source\repos\projekat_tab1_finalno\obj\Debug\netcoreapp3.1\projekat_tab1.csproj.AssemblyReference.cache
+C:\Users\Stral3\source\repos\projekat_tab1_finalno\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Stral3\source\repos\projekat_tab1_finalno\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Stral3\source\repos\projekat_tab1_finalno\obj\Debug\netcoreapp3.1\projekat_tab1_MarkupCompile.cache
+C:\Users\Stral3\source\repos\projekat_tab1_finalno\obj\Debug\netcoreapp3.1\projekat_tab1_MarkupCompile.lref
+C:\Users\Stral3\source\repos\projekat_tab1_finalno\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Stral3\source\repos\projekat_tab1_finalno\obj\Debug\netcoreapp3.1\projekat_tab1.g.resources
+C:\Users\Stral3\source\repos\projekat_tab1_finalno\obj\Debug\netcoreapp3.1\projekat_tab1.AssemblyInfoInputs.cache
+C:\Users\Stral3\source\repos\projekat_tab1_finalno\obj\Debug\netcoreapp3.1\projekat_tab1.AssemblyInfo.cs
+C:\Users\Stral3\source\repos\projekat_tab1_finalno\obj\Debug\netcoreapp3.1\projekat_tab1.csproj.CoreCompileInputs.cache
+C:\Users\Stral3\source\repos\projekat_tab1_finalno\obj\Debug\netcoreapp3.1\projekat_tab1.dll
+C:\Users\Stral3\source\repos\projekat_tab1_finalno\obj\Debug\netcoreapp3.1\projekat_tab1.pdb
+C:\Users\Stral3\source\repos\projekat_tab1_finalno\obj\Debug\netcoreapp3.1\projekat_tab1.genruntimeconfig.cache
+C:\Users\Strale\Desktop\PROJEKAT(PR119_2021, PR125_2021)\Projekat\bin\Debug\netcoreapp3.1\projekat_tab1.exe
+C:\Users\Strale\Desktop\PROJEKAT(PR119_2021, PR125_2021)\Projekat\bin\Debug\netcoreapp3.1\projekat_tab1.deps.json
+C:\Users\Strale\Desktop\PROJEKAT(PR119_2021, PR125_2021)\Projekat\bin\Debug\netcoreapp3.1\projekat_tab1.runtimeconfig.json
+C:\Users\Strale\Desktop\PROJEKAT(PR119_2021, PR125_2021)\Projekat\bin\Debug\netcoreapp3.1\projekat_tab1.runtimeconfig.dev.json
+C:\Users\Strale\Desktop\PROJEKAT(PR119_2021, PR125_2021)\Projekat\bin\Debug\netcoreapp3.1\projekat_tab1.dll
+C:\Users\Strale\Desktop\PROJEKAT(PR119_2021, PR125_2021)\Projekat\bin\Debug\netcoreapp3.1\projekat_tab1.pdb
+C:\Users\Strale\Desktop\PROJEKAT(PR119_2021, PR125_2021)\Projekat\obj\Debug\netcoreapp3.1\projekat_tab1.csproj.AssemblyReference.cache
+C:\Users\Strale\Desktop\PROJEKAT(PR119_2021, PR125_2021)\Projekat\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Strale\Desktop\PROJEKAT(PR119_2021, PR125_2021)\Projekat\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Strale\Desktop\PROJEKAT(PR119_2021, PR125_2021)\Projekat\obj\Debug\netcoreapp3.1\projekat_tab1_MarkupCompile.cache
+C:\Users\Strale\Desktop\PROJEKAT(PR119_2021, PR125_2021)\Projekat\obj\Debug\netcoreapp3.1\projekat_tab1_MarkupCompile.lref
+C:\Users\Strale\Desktop\PROJEKAT(PR119_2021, PR125_2021)\Projekat\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Strale\Desktop\PROJEKAT(PR119_2021, PR125_2021)\Projekat\obj\Debug\netcoreapp3.1\projekat_tab1.g.resources
+C:\Users\Strale\Desktop\PROJEKAT(PR119_2021, PR125_2021)\Projekat\obj\Debug\netcoreapp3.1\projekat_tab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Strale\Desktop\PROJEKAT(PR119_2021, PR125_2021)\Projekat\obj\Debug\netcoreapp3.1\projekat_tab1.AssemblyInfoInputs.cache
+C:\Users\Strale\Desktop\PROJEKAT(PR119_2021, PR125_2021)\Projekat\obj\Debug\netcoreapp3.1\projekat_tab1.AssemblyInfo.cs
+C:\Users\Strale\Desktop\PROJEKAT(PR119_2021, PR125_2021)\Projekat\obj\Debug\netcoreapp3.1\projekat_tab1.csproj.CoreCompileInputs.cache
+C:\Users\Strale\Desktop\PROJEKAT(PR119_2021, PR125_2021)\Projekat\obj\Debug\netcoreapp3.1\projekat_tab1.dll
+C:\Users\Strale\Desktop\PROJEKAT(PR119_2021, PR125_2021)\Projekat\obj\Debug\netcoreapp3.1\projekat_tab1.pdb
+C:\Users\Strale\Desktop\PROJEKAT(PR119_2021, PR125_2021)\Projekat\obj\Debug\netcoreapp3.1\projekat_tab1.genruntimeconfig.cache

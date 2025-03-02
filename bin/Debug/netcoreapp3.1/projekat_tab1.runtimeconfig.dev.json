@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Strale\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Strale\\.nuget\\packages"
+    ]
+  }
+}
